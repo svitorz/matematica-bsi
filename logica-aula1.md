@@ -77,3 +77,5 @@ P(p1,p2,p3,pn) então o número de linhas é representado por 2^n (dois elevado 
 | -   | -   | -     |
 | f   | f   | f     |
 | -   | -   | -     |
+
+[aula 2](logica-aula2.md)
