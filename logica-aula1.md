@@ -63,9 +63,9 @@ P(p1,p2,p3,pn) então o número de linhas é representado por 2^n (dois elevado 
 
 9. Conectivo "OU" e a Disjunção
 
-8.1. Verdadeiro quando _pelo menos uma_ das proposições é verdadeira
+9.1. Verdadeiro quando _pelo menos uma_ das proposições é verdadeira
 
-8.2. Falso quando as duas forem falsas
+9.2. Falso quando as duas forem falsas
 
 | p   | q   | p v q |
 | --- | --- | ----- |
