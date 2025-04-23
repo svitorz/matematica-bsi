@@ -97,3 +97,6 @@ por contradição, ou absurdo.
 Direta: 𝐴 ⇒ 𝐵
 Contradição: 𝐴 ⇒ ~𝐵 ⇒ 𝐵1 ⇒ 𝐵2 ⇒ ⋯ ⇒
 𝐵𝑛 ⇒ 𝐹
+
+[logica aula 2](logica-aula2.md)
+[conjuntos](conjuntos.md)

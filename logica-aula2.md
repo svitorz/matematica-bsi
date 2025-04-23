@@ -105,3 +105,6 @@ Uma proposição que não é uma tautologia e nem uma contradição é uma conti
     A equivalência lógica (𝑝 → 𝑞) ⇔ (~𝑞 → ~𝑝)
     demonstrada significa que , se 𝑝 → 𝑞 é V, então
     𝑝 ⇒ 𝑞 é 𝑒𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡𝑒 𝑎 (~𝑞) ⇒ (~𝑝)
+
+    [logica aula 1](logica-aula1.md)
+    [provas matemáticas](provas-matematicas.md)
