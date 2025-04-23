@@ -72,4 +72,4 @@ Estas equações envolvem raízes complexas e devem ser resolvidas com a fórmul
 
 ## Fim do conteúdo teórico
 
-provas matematicas](provas-matematicas.md)
+[provas matematicas](provas-matematicas.md)
