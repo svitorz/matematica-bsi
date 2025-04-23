@@ -87,3 +87,5 @@ Estas equações envolvem raízes complexas, e sua resolução exige o uso da f�
   Usamos o diagrama de Venn para destacar os elementos de \( A \) que não pertencem a \( B \).
 
 ---
+
+[provas matematicas](provas-matematicas.md)
